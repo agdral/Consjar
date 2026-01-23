@@ -46,4 +46,4 @@ flake.lock
 flake.lock
 
 # obsidian settings
-docs/obsidian/
+docs/.obsidian/
