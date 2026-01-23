@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# flake files
+.direnv/
+flake.lock
+flake.lock
+
+# obsidian settings
+docs/obsidian/
