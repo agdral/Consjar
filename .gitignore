@@ -42,8 +42,6 @@ next-env.d.ts
 
 # flake files
 .direnv/
-flake.lock
-flake.nix
 
 # obsidian settings
 docs/.obsidian/
