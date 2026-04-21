@@ -45,3 +45,4 @@ next-env.d.ts
 
 # obsidian settings
 docs/.obsidian/
+docs/.vault-nickname
